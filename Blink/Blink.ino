@@ -1,6 +1,7 @@
 /*
   Blinky Blinky
   PPP
+  qqq
 
   Turns an LED on for one second, then off for one second, repeatedly.
 
